@@ -62,7 +62,7 @@ In the second test, the program will be run a few times, each time on a new ciph
 Upon execution, it should obtain the ciphertext from stdin, and finally return the output plaintext on stdout within x minutes (or else it will be declared to default to an incorrect guess); most likely, we will choose x = 1 on test 1 and x = 3 on test 2.
 
 
-### Work has been distributed as follows:
+### Work and Task Distribution:
 - Test 1:
 1. Encryption Method: Dayan 
 
